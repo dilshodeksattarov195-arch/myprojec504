@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercelete",
+        "uuid": 1429848,
+        "checksum": "8ywkas"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
